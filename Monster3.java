@@ -7,6 +7,7 @@ public class Monster3{
 	
 	public int xPos = 150;
 	public int yPos = 300;
+	
 
 	public BufferedImage image;
 	public URL resource = getClass().getResource("monster2/idle0.gif");
